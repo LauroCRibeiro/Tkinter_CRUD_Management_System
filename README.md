@@ -1,1 +1,1 @@
-# Tkinter_Part_Manager
+# GUI - Graphical User Interface using Python-Tkinter library and SQL.
