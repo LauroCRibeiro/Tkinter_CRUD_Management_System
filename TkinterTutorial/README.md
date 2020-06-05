@@ -1,1 +1,1 @@
-# Tkinter_Part_Manager
+# Tkinter CRUD management System using SQL.
